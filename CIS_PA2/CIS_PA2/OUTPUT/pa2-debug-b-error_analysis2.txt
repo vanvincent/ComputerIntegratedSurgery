@@ -1,0 +1,11 @@
+4, pa2-debug-b-our-output2.txt
+Individual errors
+     0.44     0.29     0.15
+    -0.24     0.05      0.2
+     0.28    -0.09    -0.11
+     0.63    -0.31     -0.2
+*******Data analysis*******
+Total number of data are:4
+The average error(absolute) for X coordinate accross all data set is:0.3975
+The average error(absolute) for Y coordinate accross all data set is:0.185
+The average error(absolute) for Z coordinate accross all data set is:0.165

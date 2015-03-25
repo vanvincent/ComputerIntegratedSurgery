@@ -1,0 +1,44 @@
+Program structure
+
+Makefile
+makefile
+
+Header files:
+Triangle.h
+Body.h
+Mesh.h
+OPTtracker.h
+Registration.h
+Octree.h
+OctreePoint.h
+Stopwatch.h
+
+Source files:
+main.cpp
+Triangle.cpp
+Body.cpp
+Mesh.cpp
+OPTtracker.cpp
+Registration.cpp
+
+Folders:
+Eigen
+Data
+OUTPUT
+
+Instructions of how to run the software
+
+The software is written in C++ language. In Linux or Mac OS, your can compile the codes by g++ compiler. If you are Windows Visual Studio user, you can copy all the header and source files to a new VS project and compile the code. Here, we will explain running the code under Linux system.
+
+1. Copy files
+Copy to whole folder into your local directory, which will contain all the files and folders described above.
+
+2. Open a terminal, use “cd” command to enter the local directory 
+
+3. Under this directory, in the terminal, types “make” to compile the codes.
+
+4. After the successful compile of codes, you can run the software by typing “./PA3” in the terminal.
+
+5. In our main function, we run the software automatically for all the debug and unknown data set for PA3, so you don’t need to enter any command, the software will automatically read files from the “Data” folder and generate outputs and put them to the “OUTPUT” folder.
+
+6. If you want to clear the generated software and only keep source files, type, “make clean”.

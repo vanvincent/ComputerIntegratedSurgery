@@ -1,0 +1,6 @@
+Average error for set A between our outputs and the debug outputs:0.00193333
+Average error for set B between our outputs and the debug outputs:0.00186
+Average error for set C between our outputs and the debug outputs:0.001745
+Average error for set D between our outputs and the debug outputs:0.003255
+Average error for set E between our outputs and the debug outputs:0.03004
+Average error for set F between our outputs and the debug outputs:0.00908
